@@ -13,6 +13,7 @@
         $scope.studies = Node("studies");
     }]);
     
+    
     app.directive("cvTitle", function(){
         return{
             restrivt: "E",
