@@ -1,4 +1,4 @@
-cv
+cv of José María Rubio Moral
 ==
 
-my online CV with FireBase, Angular
+my CV online with FireBase, Angular
