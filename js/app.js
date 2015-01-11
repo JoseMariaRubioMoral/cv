@@ -13,11 +13,28 @@
         $scope.studies = Node("studies");
     }]);
     
+    app.controller( "TimeLineController", ["$scope", "Node", function($scope, Node){
+        $scope.timeline = Node("timeline");
+    }]);
     
     app.directive("cvTitle", function(){
         return{
             restrivt: "E",
             templateUrl: "/html/cv-title.html"
+        }
+    });
+    
+    app.directive("cvGraphs", function(){
+        return{
+            restrivt: "E",
+            templateUrl: "/html/cv-graphs.html"
+        }
+    });
+    
+    app.directive("cvTimeline", function(){
+        return{
+            restrivt: "E",
+            templateUrl: "/html/cv-timeline.html"
         }
     });
     

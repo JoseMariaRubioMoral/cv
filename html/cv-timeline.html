@@ -1,0 +1,23 @@
+<div class="row">
+    <div class="heading"><h1>Time Line</h1></div>
+</div>  
+<div class="row">
+  <div class="container">
+      <ul class="timeline" ng-controller="TimeLineController">
+          <li ng-repeat="item in timeline">
+            <div class="timeline-badge altran"><i>{{ item.year }}</i></div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4 class="timeline-title">{{ item.position }}</h4>
+                <p><small class="text-muted"><a data-toggle="tooltip" title="Empresa"><i class="glyphicon glyphicon-tower"></i></a> {{ item.company }} </small></p>
+                <p><small class="text-muted"><a data-toggle="tooltip" title="Duración en el puesto"><i class="glyphicon glyphicon-time"></i></a> {{ item.duration }} </small></p>
+                <p><small class="text-muted"><a data-toggle="tooltip" title="Tecnologías empleadas"><i class="glyphicon glyphicon glyphicon-flash"></i></a><span>{{ item.tecnologies.join(", ") }}</span> </small></p>
+              </div>
+              <div class="timeline-body" ng-repeat="description in item.descriptions">
+                <p>{{ description }}</p>  
+              </div>
+            </div>
+          </li>        
+      </ul>
+  </div>
+</div>    
