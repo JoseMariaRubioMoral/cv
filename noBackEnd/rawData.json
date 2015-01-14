@@ -1,65 +1,69 @@
 {
-  "studies" : [ {
-    "description" : "Máster en ingeniería multimedia de 82 créditos sobre recursos teóricos y prácticos para poder abordar por completo, el desarrollo de una aplicación multimedia desde el origen hasta el final.",
-    "study" : "Máster"
-  }, {
-    "description" : "Ingeniería Superior de Informática por la UPSAM con especialidad en ingenería del software.",
-    "study" : "Carrera"
-  }, {
-    "description" : "Medio - alto. Llevo varios años trabajando en equipos internacionales donde la comunicación es en inglés.",
-    "study" : "Inglés"
-  }, {
-    "description" : "Básico, llevo un año dando clases de ruso en inglés.",
-    "study" : "Ruso"
-  } ],
-  "timeline" : [ {
-    "company" : "Everis",
-    "description" : "Primera experiencia dentro del mercado laboral donde trabajé en el desarrollo web de la intranet de incidencias de toda la empresa.",
-    "duration" : "8 meses",
-    "position" : "Becario",
-    "tecnologies" : [ "ASP", "SQL Sever", "Visual Basic", "Visual Source Force" ],
-    "year" : 2005
-  }, {
-    "company" : "Caritas",
-    "description" : "Colaboración en el proyecto \"Observatorio De La Pobreza\" con informes dinámicos sobre minería de datos.",
-    "duration" : "9 meses",
-    "position" : "Programador",
-    "tecnologies" : [ "Qlik View", "ASP", "SQL Sever", "Visual Basic", "Visual Source Force" ],
-    "year" : 2006
-  }, {
-    "company" : "One Click Technologies ltd.",
-    "description" : "Programador de cursos interactivos e-learning para Anaya y Cruz Roja.",
-    "duration" : "4 meses",
-    "position" : "Analista Programador Macromedia Flash",
-    "tecnologies" : [ "ActionScript", "SVN" ],
-    "year" : 2007
-  }, {
-    "company" : "Cómo Produzco",
-    "description" : [ "Creación del sitio web karaoke-online para telecinco donde la usuarios grababan sus propias versiones de Operación Triunfo", "Realización y creación del framework necesario para unos cursos e-learning para niños para SM ya fuera en modo web o en formato Cd Interactivo." ],
-    "duration" : "8 meses",
-    "position" : "Programador Multimedia Senior",
-    "tecnologies" : [ "ActionScript", "J2ee Struts", "Photoshop", "SVN" ],
-    "year" : 2007
-  }, {
-    "company" : "Zerorock",
-    "description" : "Programador dentro de la startUp Zerorck donde realicé trabajos publicitarios en diversas tecnologías como Nokia, Vodafone, BurgerKing, Mahou, Pringles, Smart, festiival SOS48. Los desarrollos fueron tanto en la parte front-end como en la back end y administración.",
-    "duration" : "1 año y 2 meses",
-    "position" : "Programador Orgánico Multimedia Senior",
-    "tecnologies" : [ "JavaScript", "ActionScript", "PHP", "MySql", "Photoshop" ],
-    "year" : 2008
-  }, {
-    "company" : "Altran",
-    "description" : [ "Partipación activa del Proyecto Hbbtv Telefonica nominado Excelence Altran 2012 España. Proyecto pionero en España de televión conectada con tecnología HbbTV conectándolo con un videoclub de Telefonica.", "Migración del portal Web Tele2 de un framework obsoleto del 2004 en Php a un entorno Java Spring", "Desarrollo del portal para dispositivos móviles de Kuehne Nagel donde se podrían hacer todo tipo de consultas desde el un móvil o una tablet.", "Programación del l-dap para teléfono Cisco y Panasonic en Vodafone para poder conectarse con toda la agenda de personas dentro de Vodafone.", "Desarrollo de la aplicación Imagenio desplegada tanto en España como en Chile, en un equipo multidisciplinar e intenacional." ],
-    "duration" : "2 años y 6 meses",
-    "position" : "Consultor Senior",
-    "tecnologies" : [ "HTML5", "Javascript", "Jquery Mobile", "ActionScript", "Python", "Java Spring" ],
-    "year" : 2010
-  }, {
-    "company" : "Altran en Alcatel-Lucent",
-    "description" : "Coordinador y miembro del grupo de desarrollo y despliegue de aplicaciones de Movistar TV. Aplicación con hasta un millón de usuarios, desplegada tanto para el mundo de la televisión en fibra así como en tablets y ordenadores.",
-    "duration" : "Hasta la actualidad",
-    "position" : "Operational Leader",
-    "tecnologies" : [ "JavaScript", "ActionScript", "HTML%" ],
-    "year" : 2013
-  } ]
+  "studies" : [ 
+    {
+      "description" : "Máster en ingeniería multimedia de 82 créditos sobre recursos teóricos y prácticos para poder abordar por completo, el desarrollo de una aplicación multimedia desde el origen hasta el final.",
+      "study" : "Máster"
+    }, {
+      "description" : "Ingeniería Superior de Informática por la UPSAM con especialidad en ingenería del software.",
+      "study" : "Carrera"
+    }, {
+      "description" : "Medio - alto. Llevo varios años trabajando en equipos internacionales donde la comunicación es en inglés.",
+      "study" : "Inglés"
+    }, {
+      "description" : "Básico, llevo un año dando clases de ruso en inglés.",
+      "study" : "Ruso"
+    } 
+  ],
+  "timeline" : [ 
+    {
+      "company" : "Altran en Alcatel-Lucent",
+      "descriptions" : [ "Coordinador y miembro del grupo de desarrollo y despliegue de aplicaciones de Movistar TV. Aplicación con hasta un millón de usuarios, desplegada tanto para el mundo de la televisión en fibra así como en tablets y ordenadores." ],
+      "duration" : "Hasta la actualidad",
+      "position" : "Operational Leader",
+      "tecnologies" : [ "JavaScript", "ActionScript", "HTML%" ],
+      "year" : 2013
+    }, {
+      "company" : "Altran",
+      "descriptions" : [ "Partipación activa del Proyecto Hbbtv Telefonica nominado Excelence Altran 2012 España. Proyecto pionero en España de televión conectada con tecnología HbbTV conectándolo con un videoclub de Telefonica.", "Migración del portal Web Tele2 de un framework obsoleto del 2004 en Php a un entorno Java Spring", "Desarrollo del portal para dispositivos móviles de Kuehne Nagel donde se podrían hacer todo tipo de consultas desde el un móvil o una tablet.", "Programación del l-dap para teléfono Cisco y Panasonic en Vodafone para poder conectarse con toda la agenda de personas dentro de Vodafone.", "Desarrollo de la aplicación Imagenio desplegada tanto en España como en Chile, en un equipo multidisciplinar e intenacional." ],
+      "duration" : "2 años y 6 meses",
+      "position" : "Consultor Senior",
+      "tecnologies" : [ "HTML5", "Javascript", "Jquery Mobile", "ActionScript", "Python", "Java Spring" ],
+      "year" : 2010
+    }, {
+      "company" : "Zerorock",
+      "descriptions" : [ "Programador dentro de la startUp Zerorck donde realicé trabajos publicitarios en diversas tecnologías como Nokia, Vodafone, BurgerKing, Mahou, Pringles, Smart, festiival SOS48. Los desarrollos fueron tanto en la parte front-end como en la back end y administración." ],
+      "duration" : "1 año y 2 meses",
+      "position" : "Programador Orgánico Multimedia Senior",
+      "tecnologies" : [ "JavaScript", "ActionScript", "PHP", "MySql", "Photoshop" ],
+      "year" : 2008
+    }, {
+      "company" : "Cómo Produzco",
+      "descriptions" : [ "Creación del sitio web karaoke-online para telecinco donde la usuarios grababan sus propias versiones de Operación Triunfo.", "Realización y creación del framework necesario para unos cursos e-learning para niños para SM ya fuera en modo web o en formato Cd Interactivo." ],
+      "duration" : "8 meses",
+      "position" : "Programador Multimedia Senior",
+      "tecnologies" : [ "ActionScript", "J2ee Struts", "Photoshop", "SVN" ],
+      "year" : 2007
+    }, {
+      "company" : "One Click Technologies ltd.",
+      "descriptions" : [ "Programador de cursos interactivos e-learning para Anaya y Cruz Roja." ],
+      "duration" : "4 meses",
+      "position" : "Analista Programador Macromedia Flash",
+      "tecnologies" : [ "ActionScript", "SVN" ],
+      "year" : 2007
+    }, {
+      "company" : "Caritas",
+      "descriptions" : [ "Colaboración en el proyecto \"Observatorio De La Pobreza\" con informes dinámicos sobre minería de datos." ],
+      "duration" : "9 meses",
+      "position" : "Programador",
+      "tecnologies" : [ "Qlik View", "ASP", "SQL Sever", "Visual Basic", "Visual Source Force" ],
+      "year" : 2006
+    }, {
+      "company" : "Everis",
+      "descriptions" : [ "Primera experiencia dentro del mercado laboral donde trabajé en el desarrollo web de la intranet de incidencias de toda la empresa." ],
+      "duration" : "8 meses",
+      "position" : "Becario",
+      "tecnologies" : [ "ASP", "SQL Sever", "Visual Basic", "Visual Source Force" ],
+      "year" : 2005
+    } 
+  ]
 }

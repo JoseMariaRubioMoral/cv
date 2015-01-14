@@ -15,6 +15,7 @@
     
     app.controller( "TimeLineController", ["$scope", "Node", function($scope, Node){
         $scope.timeline = Node("timeline");
+        console.log(Node("timeline"));
     }]);
     
     app.directive("cvTitle", function(){
